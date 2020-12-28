@@ -1,0 +1,3 @@
+include ':ballring'
+include ':app'
+rootProject.name = "BallRing"
